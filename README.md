@@ -7,8 +7,6 @@ title: Example Git diagram
 ---
 
 gitgraph
-    commit id: "Initial"
-
     branch release
     checkout release
     commit id: "Prod Deploy"
